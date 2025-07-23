@@ -173,32 +173,6 @@ Excel-Analytics-Platform/
 }
 ```
 
-## 🚀 Deployment
-
-### Backend Deployment
-1. Set up environment variables on your hosting platform
-2. Configure MongoDB connection string
-3. Deploy to platforms like Heroku, Railway, or Vercel
-
-### Frontend Deployment
-1. Build the React app: `npm run build`
-2. Deploy to platforms like Netlify, Vercel, or GitHub Pages
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-**Sahaj** - [GitHub](https://github.com/Sahaj2310)
 
 ## 🙏 Acknowledgments
 
